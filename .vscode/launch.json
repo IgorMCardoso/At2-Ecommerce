@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "ucb.poo.ecommerce.Main",
+        "projectName": ""
+    },
+    {
+        "type": "java",
+        "name": "Run Main",
+        "request": "launch",
+        "mainClass": "ucb.poo.ecommerce.Main",
+        "projectName": "atividade",
+        "classPaths": [
+            "target/classes",
+            "atividade/lib/mysql-connector-java-8.0.28.jar"
+        ]
+    }
+]
+}

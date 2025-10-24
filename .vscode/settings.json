@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
